@@ -1,0 +1,8 @@
+pwd      = (print working directory)this command is use for see our current directory 
+ls       = This command is use for showing file or folders list
+cd       = change directory 
+clear    = clear all terminal
+date     = for seeing date
+history  = for seeing past commands history
+whoami   = its show , users identity means eg. root user 
+~        = this is called till its means we are in the users home directory 
